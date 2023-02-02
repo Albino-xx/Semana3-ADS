@@ -1,0 +1,13 @@
+C:\Users\Ulacit\source\repos\ConsoleAppSemana3\ConsoleAppSemana3\bin\Debug\ConsoleAppSemana3.exe.config
+C:\Users\Ulacit\source\repos\ConsoleAppSemana3\ConsoleAppSemana3\bin\Debug\ConsoleAppSemana3.exe
+C:\Users\Ulacit\source\repos\ConsoleAppSemana3\ConsoleAppSemana3\bin\Debug\ConsoleAppSemana3.pdb
+C:\Users\Ulacit\source\repos\ConsoleAppSemana3\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.csproj.AssemblyReference.cache
+C:\Users\Ulacit\source\repos\ConsoleAppSemana3\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulacit\source\repos\ConsoleAppSemana3\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.csproj.CoreCompileInputs.cache
+C:\Users\Ulacit\source\repos\ConsoleAppSemana3\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.exe
+C:\Users\Ulacit\source\repos\ConsoleAppSemana3\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.pdb
+C:\Users\jossanchez.IM\Documents\Semana3-ADS-main\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.csproj.AssemblyReference.cache
+C:\Users\jossanchez.IM\Documents\Semana3-ADS-main\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jossanchez.IM\Documents\Semana3-ADS-main\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.csproj.CoreCompileInputs.cache
+C:\Users\jossanchez.IM\Documents\Semana3-ADS-main\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.exe
+C:\Users\jossanchez.IM\Documents\Semana3-ADS-main\ConsoleAppSemana3\obj\Debug\ConsoleAppSemana3.pdb
